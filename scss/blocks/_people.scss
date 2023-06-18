@@ -1,0 +1,61 @@
+.people__container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    
+}
+
+.people {
+    background: $secondary;
+    width: 1200px;
+    height: 675px;
+
+    margin-top: 140px;
+    position: relative;
+    left: 190px;
+    border-radius: 70px;
+
+
+}
+
+.people__card {
+    display: inline-block;
+    background: $main;
+    width: 354px;
+    height: 287px;
+    border-radius: 30px;
+    margin-top: 47px;
+    margin-left: 30px;
+    position: relative;
+    padding: 55px 0px 25px;
+}
+
+.people__img {
+    height: 77px;
+    padding-left: 35px;
+
+}
+
+.people__name {
+    font-size: 25px;
+    height: 38px;
+    height: 38px;
+    padding-left: 135px;
+    margin-top: -70px;
+}
+
+.people__city {
+    font-family: $font-accent;
+    font-size: 18px;
+    margin-left: 130px;
+
+}
+
+.people__text {
+    font-family: $font-accent;
+    font-size: 20px;
+    padding-top: 32px;
+    padding-left: 32px;
+    padding-right: 75px;
+
+}
