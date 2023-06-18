@@ -1,0 +1,46 @@
+.contact {
+    margin-top: 200px;
+    margin-left: 120px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.contact__subtitle {
+    font-family: $font-accent;
+    font-size: 22px;
+}
+
+.img__phone {
+    padding-top: 40px;
+    cursor: pointer;
+}
+
+.contact__number {
+    font-family: $font-accent;
+    font-size: 24px;
+    margin-left: 120px;
+    margin-top: -90px;
+}
+
+.contacts__button {
+    line-height: 70px;
+    background-image: url('./.././../img/contacts__button.svg');
+    background-repeat: no-repeat;
+    margin-top: -130px;
+    height: 71px;
+    cursor: pointer;
+}
+
+.contacts__button-text {
+    font-family: $font-accent;
+    color: $main;
+    font-size: 18px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+.img__middle {
+    margin-left: 300px;
+    margin-top: -230px;
+}

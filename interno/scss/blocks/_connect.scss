@@ -1,0 +1,45 @@
+.connect__wrapper {
+    width: 1200px;
+    height: 414px;
+    background: #292F36;
+    border-radius: 70px;
+    position: relative;
+    top: 80px;
+    left: 140px;
+}
+
+.connect__title {
+    color: #fff;
+    font-size: 50px;
+    position: relative;
+    top: 100px;
+    left: 333px;
+    right: 333px;
+}
+
+.connect__subtitle {
+    color: #fff;
+    font-family: $font-accent;
+    font-size: 22px;
+    position: relative;
+    top: 120px;
+    left: 415px;
+    right: 415px;
+}
+
+.connect__button {
+    position: relative;
+    top: 110px;
+    left: 450px;
+    right: 475px;
+}
+
+.connect__button-text {
+    color: #fff;
+    font-family: $font-accent;
+    font-size: 18px;
+    position: relative;
+    top: 175px;
+    left: 508px;
+    z-index: 2;
+}

@@ -1,0 +1,89 @@
+
+
+.blogs__subtitle {
+    font-family: $font-accent;
+    font-size: 22px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 71px;
+}
+
+.blogs__cards {
+    width: 387px;
+    height: 515px;
+    border: 1px solid #E7E7E7;
+    border-radius: 62px;
+    box-sizing: border-box;
+    display: inline-block;
+    position: relative;
+    left: 120px;
+    right: 120px;
+    margin-bottom: 60px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.blogs__card {
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+
+.img__title {
+    width: 125px;
+    height: 44px;
+
+    background: #ffffff;
+    border-radius: 8px 8px 8px 0px;
+    padding-bottom: 44px;
+    position: relative;
+    bottom: 70px;
+    left: 30px;
+}
+
+.img__title2 {
+    width: 104px;
+    height: 44px;
+
+    background: #ffffff;
+    border-radius: 8px 8px 8px 0px;
+    padding-bottom: 44px;
+    position: relative;
+    bottom: 70px;
+    left: 30px;
+}
+
+.img__title3 {
+    width: 139px;
+    height: 44px;
+
+    background: #ffffff;
+    border-radius: 8px 8px 8px 0px;
+    padding-bottom: 44px;
+    position: relative;
+    bottom: 70px;
+    left: 30px;
+}
+
+.img__title-text {
+    font-family: $font-accent;
+    font-size: 16px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+
+}
+
+.blogs-card__title {
+    font-size: 25px;
+    position: relative;
+    bottom: 25px;
+}
+.blogs-card__subtitle {
+    font-family: $font-accent;
+    font-size: 16px;
+}
+.blogs-card__icon {
+    position: relative;
+    left: 290px;
+    bottom: 50px;
+}
